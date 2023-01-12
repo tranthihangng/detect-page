@@ -21,6 +21,7 @@ nhưng bị lỗi
 
 sau đó t làm thêm bước sau:
 $ git config --global http.version HTTP/1.1
+
 $ git config --global http.version HTTP/2
 
 
